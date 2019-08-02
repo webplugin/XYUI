@@ -12,31 +12,11 @@
 
 [github项目地址](https://github.com/XboxYan/xy-ui)
 
-## 更新
-* ## 1.3.3
-    * 重构[xy-select](./docs/xy-select.md)，基于`xy-popover`，逻辑更清晰
-    * 修复[xy-popover](./docs/xy-popover.md)、[xy-select](./docs/xy-select.md)空白处点击处关闭的问题
-* ## 1.3.2
-    * 修复[xy-popover](./docs/xy-popover.md?id=触发trigger)在火狐上的触发（`hover`、`focus`）问题
-    * 新增[xy-popover](./docs/xy-popover.md?id=示例)示例
-* ## 1.3.1
-    * [xy-popover](./docs/xy-popover.md?id=触发trigger)新增`trigger`属性
-* ## 1.3.0
-    * 新增[xy-popover](./docs/xy-popover.md)悬浮操作组件
-    * [xy-tips](./docs/xy-tips.md?id=方向dir)的`dir`新增`8`个方向
-    * [xy-button](./docs/xy-tips.md?id=链接href)新增`href`属性
-    * [xy-input](./docs/xy-input.md?id=oninput)新增`debounce`属性
-    * 优化[xy-select](./docs/xy-select.md)逻辑
-* ## 1.2.0
-    * 修复`xy-img`关闭画廊时的定位问题
-    * 精简所有`focus`、`blur`事件
-    * 新增[xy-rate](./docs/xy-rate.md)组件
-* ## 1.1.0
-    * 重构`xy-button`组件结构，更易于自定义
-    * 新增[xy-img](./docs/xy-img.md)组件
-* ## 1.0.2
-    * 修复已知bug
-    * `xy-slider` 新增`suffix`属性
+## 文档
+
+该文档基于[docsify](https://docsify.js.org/)动态创建，文中所有组件均为可交互实例。
+
+现集成[gitalk](https://gitalk.github.io/)评论系统，有相关问题可在下方评论区留言。
 
 ## 特性
 
